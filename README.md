@@ -1,2 +1,2 @@
 # DSAL-PY
-Data structures and algorithms(DSAL) in Python
+A Python standard library featuring data structures and algorithms
