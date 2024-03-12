@@ -19,6 +19,16 @@ def log(ID=None, TIME=None, DATA=None, WING_FL_POS=None, WING_FR_POS=None, WING_
     except Exception as e:
         print("Error occurred:", e)
 
+class logger():
+    def __init__(self):
+        pass
+
+    def log(self, TAG, message, **kwargs):
+        self.TAG = TAG
+        self.message = message
+        self.logger_info = kwargs
+
+
 def main():
     log(1, "12:00", "Some data", 10, 20, 30, 40)
 
