@@ -8,7 +8,7 @@ Copyright: Copyright (c) 2024 Lukas R. Jackson, Vanguard Precision
 Author: Lukas R. Jackson (LukasJacksonEG@gmail.com)
 
 License: BSD-3-Clause License
-         Copyright (c) 2023 Your Company or Your Name
+         Copyright (c) 2023 Lukas R. Jackson, Vanguard Precision
          All rights reserved.
 
          Redistribution and use in source and binary forms, with or without
@@ -34,3 +34,15 @@ License: BSD-3-Clause License
          OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
          OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 """
+
+class Node:
+   def __init__(self, data):
+      self.left = None
+      self.right = None
+      self.data = data
+
+   def printtree(self):
+      print(self.data)
+
+   def printbranch(self, node):
+      print(node)

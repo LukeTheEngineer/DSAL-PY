@@ -8,7 +8,7 @@ Copyright: Copyright (c) 2023 Lukas R. Jackson, Vanguard Precision, Gothric Soli
 Author: Lukas R. Jackson (LukasJacksonEG@gmail.com)
 
 License: BSD-3-Clause License
-         Copyright (c) 2023 Your Company or Your Name
+         Copyright (c) 2023 Lukas R. Jackson, Vanguard Precision
          All rights reserved.
 
          Redistribution and use in source and binary forms, with or without
