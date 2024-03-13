@@ -35,4 +35,4 @@ License: BSD-3-Clause License
          OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 """
 
-from dsal_py_src.math_src.aero import aero
+from src.math_src.aero import aero
