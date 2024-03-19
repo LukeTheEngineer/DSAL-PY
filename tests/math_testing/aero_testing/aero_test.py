@@ -36,3 +36,9 @@ License: BSD-3-Clause License
 """
 
 from src.math_src.aero import aero
+
+def main():
+   pass
+
+if __name__ == '__main__':
+   main()
